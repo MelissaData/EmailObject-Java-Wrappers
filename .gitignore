@@ -1,8 +1,12 @@
 [Mm]elissa[Uu]pdater/
 
 mdEmail.dll
+libmdEmail.so
 
 *.h
 *.lib
 *.obj
 *.hash
+*.zip
+*.class
+*.jar
