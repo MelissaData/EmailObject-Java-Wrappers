@@ -13,7 +13,7 @@ For further details, please visit: https://wiki.melissadata.com/images/9/93/DQT_
 ## Tested Environments
 - Windows 10 64-bit Java 19, Microsoft Visual C++ 19.34, Powershell 5.1
 - Ubuntu Linux 20.04.04 LTS 64-bit Java 20, gcc 9.4.0 
-- Melissa Email Object for 2024-09
+- Melissa Email Object for 2024-10
 - Wrapper file(s) have not changed since 2024-02
 
 ## Getting Started
@@ -21,8 +21,8 @@ These instructions will get you a copy of the wrappers needed to run the Java Em
 
 ### Download this project
 ```
-$ git clone https://github.com/MelissaData/EmailObject-Java-Wrappers
-$ cd EmailObject-Java-Wrappers
+git clone https://github.com/MelissaData/EmailObject-Java-Wrappers
+cd EmailObject-Java-Wrappers
 ```
 
 ### Copy wrappers to your project folder
@@ -80,8 +80,8 @@ Parameter(s)
 - -license (optional): a license string to run the powershell script
 
 ```
-$ .\BuildEmailJavaWrapper.ps1
-$ .\BuildEmailJavaWrapper.ps1 -license "<your_license_string>"
+.\BuildEmailJavaWrapper.ps1
+.\BuildEmailJavaWrapper.ps1 -license "<your_license_string>"
 ```
 
 ## Linux
@@ -149,8 +149,8 @@ Parameter(s)
 - --license (optional): a license string to run the bash script
 
 ```
-$ ./BuildEmailJavaWrapper.sh
-$ ./BuildEmailJavaWrapper.sh --license "<your_license_string>"
+./BuildEmailJavaWrapper.sh
+./BuildEmailJavaWrapper.sh --license "<your_license_string>"
 ```
 
 ----------------------------------------
