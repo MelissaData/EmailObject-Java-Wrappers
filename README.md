@@ -21,8 +21,8 @@ These instructions will get you a copy of the wrappers needed to run the Java Em
 
 ### Download this project
 ```
-git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/java/melissaemailobjectjavawrappers.git
-cd melissaemailobjectjavawrappers
+git clone https://github.com/MelissaData/EmailObject-Java-Wrappers
+cd EmailObject-Java-Wrappers
 ```
 
 ### Copy wrappers to your project folder
